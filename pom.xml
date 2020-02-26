@@ -17,6 +17,7 @@
 
     <modules>
         <module>concurrent-overview</module>
+        <module>Synchronized</module>
     </modules>
 
     <dependencies>
