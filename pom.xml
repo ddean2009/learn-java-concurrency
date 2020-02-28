@@ -18,6 +18,7 @@
     <modules>
         <module>concurrent-overview</module>
         <module>Synchronized</module>
+        <module>volatile</module>
     </modules>
 
     <dependencies>
