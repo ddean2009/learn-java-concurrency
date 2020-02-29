@@ -19,6 +19,7 @@
         <module>concurrent-overview</module>
         <module>Synchronized</module>
         <module>volatile</module>
+        <module>wait-sleep</module>
     </modules>
 
     <dependencies>
