@@ -21,6 +21,7 @@
         <module>volatile</module>
         <module>wait-sleep</module>
         <module>feature</module>
+        <module>ExecutorService</module>
     </modules>
 
     <dependencies>
