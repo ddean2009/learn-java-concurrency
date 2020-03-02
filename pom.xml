@@ -23,6 +23,7 @@
         <module>feature</module>
         <module>ExecutorService</module>
         <module>runnable-callable</module>
+        <module>ThreadLocal</module>
     </modules>
 
     <dependencies>
