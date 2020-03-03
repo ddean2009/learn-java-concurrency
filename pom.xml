@@ -24,6 +24,7 @@
         <module>ExecutorService</module>
         <module>runnable-callable</module>
         <module>ThreadLocal</module>
+        <module>thread-lifecycle</module>
     </modules>
 
     <dependencies>
