@@ -41,6 +41,7 @@ public class KillThread implements Runnable {
             try {
                 Thread.sleep(interval);
             } catch (InterruptedException e){
+                log.info("isInterrupted status {}", Thread.currentThread().isInterrupted());
                 Thread.currentThread().interrupt();
                 log.info("Thread was interrupted, Failed to complete operation");
             }

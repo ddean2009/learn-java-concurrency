@@ -28,6 +28,7 @@
         <module>join</module>
         <module>kill-thread</module>
         <module>atomic</module>
+        <module>interrupt</module>
     </modules>
 
     <dependencies>
