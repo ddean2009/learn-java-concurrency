@@ -27,6 +27,7 @@
         <module>thread-lifecycle</module>
         <module>join</module>
         <module>kill-thread</module>
+        <module>atomic</module>
     </modules>
 
     <dependencies>
