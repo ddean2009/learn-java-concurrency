@@ -20,7 +20,7 @@
         <module>Synchronized</module>
         <module>volatile</module>
         <module>wait-sleep</module>
-        <module>feature</module>
+        <module>future</module>
         <module>ExecutorService</module>
         <module>runnable-callable</module>
         <module>ThreadLocal</module>
@@ -29,6 +29,7 @@
         <module>kill-thread</module>
         <module>atomic</module>
         <module>interrupt</module>
+        <module>DaemonThread</module>
     </modules>
 
     <dependencies>
