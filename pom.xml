@@ -30,6 +30,7 @@
         <module>atomic</module>
         <module>interrupt</module>
         <module>DaemonThread</module>
+        <module>threadPool</module>
     </modules>
 
     <dependencies>
