@@ -31,6 +31,7 @@
         <module>interrupt</module>
         <module>DaemonThread</module>
         <module>threadPool</module>
+        <module>forkjoin</module>
     </modules>
 
     <dependencies>
