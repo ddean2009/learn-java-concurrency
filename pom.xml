@@ -32,6 +32,7 @@
         <module>DaemonThread</module>
         <module>threadPool</module>
         <module>forkjoin</module>
+        <module>Locks</module>
     </modules>
 
     <dependencies>
