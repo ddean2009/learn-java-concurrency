@@ -33,6 +33,7 @@
         <module>threadPool</module>
         <module>forkjoin</module>
         <module>Locks</module>
+        <module>CountDownLatch</module>
     </modules>
 
     <dependencies>
