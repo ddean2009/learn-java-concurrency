@@ -35,6 +35,7 @@
         <module>Locks</module>
         <module>CountDownLatch</module>
         <module>CyclicBarrier</module>
+        <module>benchmark</module>
     </modules>
 
     <dependencies>
