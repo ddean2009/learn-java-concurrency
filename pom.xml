@@ -34,6 +34,7 @@
         <module>forkjoin</module>
         <module>Locks</module>
         <module>CountDownLatch</module>
+        <module>CyclicBarrier</module>
     </modules>
 
     <dependencies>
