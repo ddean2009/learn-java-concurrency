@@ -36,6 +36,7 @@
         <module>CountDownLatch</module>
         <module>CyclicBarrier</module>
         <module>benchmark</module>
+        <module>ThreadLocalRandom</module>
     </modules>
 
     <dependencies>
