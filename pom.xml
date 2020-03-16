@@ -38,6 +38,7 @@
         <module>benchmark</module>
         <module>ThreadLocalRandom</module>
         <module>futureTask</module>
+        <module>CompletableFuture</module>
     </modules>
 
     <dependencies>
