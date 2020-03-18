@@ -39,6 +39,7 @@
         <module>ThreadLocalRandom</module>
         <module>futureTask</module>
         <module>CompletableFuture</module>
+        <module>Phaser</module>
     </modules>
 
     <dependencies>
