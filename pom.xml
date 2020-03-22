@@ -41,6 +41,7 @@
         <module>CompletableFuture</module>
         <module>Phaser</module>
         <module>Semaphore</module>
+        <module>MemoizedMap</module>
     </modules>
 
     <dependencies>
