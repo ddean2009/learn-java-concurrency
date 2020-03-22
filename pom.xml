@@ -42,6 +42,7 @@
         <module>Phaser</module>
         <module>Semaphore</module>
         <module>MemoizedMap</module>
+        <module>CompletionService</module>
     </modules>
 
     <dependencies>
