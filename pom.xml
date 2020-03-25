@@ -44,6 +44,7 @@
         <module>MemoizedMap</module>
         <module>CompletionService</module>
         <module>ExecutorServiceShutdown</module>
+        <module>ThreadPoolDeadlock</module>
     </modules>
 
     <dependencies>
