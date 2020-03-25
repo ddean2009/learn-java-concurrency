@@ -43,6 +43,7 @@
         <module>Semaphore</module>
         <module>MemoizedMap</module>
         <module>CompletionService</module>
+        <module>ExecutorServiceShutdown</module>
     </modules>
 
     <dependencies>
