@@ -46,6 +46,7 @@
         <module>ExecutorServiceShutdown</module>
         <module>ThreadPoolDeadlock</module>
         <module>rejectPolicy</module>
+        <module>accountTransferLock</module>
     </modules>
 
     <dependencies>
