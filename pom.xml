@@ -47,6 +47,7 @@
         <module>ThreadPoolDeadlock</module>
         <module>rejectPolicy</module>
         <module>accountTransferLock</module>
+        <module>AQS</module>
     </modules>
 
     <dependencies>
