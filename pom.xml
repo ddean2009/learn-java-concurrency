@@ -45,6 +45,7 @@
         <module>CompletionService</module>
         <module>ExecutorServiceShutdown</module>
         <module>ThreadPoolDeadlock</module>
+        <module>rejectPolicy</module>
     </modules>
 
     <dependencies>
