@@ -48,6 +48,7 @@
         <module>rejectPolicy</module>
         <module>accountTransferLock</module>
         <module>AQS</module>
+        <module>CAS</module>
     </modules>
 
     <dependencies>
