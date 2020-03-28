@@ -49,6 +49,7 @@
         <module>accountTransferLock</module>
         <module>AQS</module>
         <module>CAS</module>
+        <module>nonblock</module>
     </modules>
 
     <dependencies>
