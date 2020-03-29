@@ -50,6 +50,7 @@
         <module>AQS</module>
         <module>CAS</module>
         <module>nonblock</module>
+        <module>reorder</module>
     </modules>
 
     <dependencies>
