@@ -41,7 +41,7 @@
         <module>CompletableFuture</module>
         <module>Phaser</module>
         <module>Semaphore</module>
-        <module>MemoizedMap</module>
+        <module>MemoizedCalculate</module>
         <module>CompletionService</module>
         <module>ExecutorServiceShutdown</module>
         <module>ThreadPoolDeadlock</module>
