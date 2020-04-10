@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>MemoizedCalculate</artifactId>
+    <artifactId>Exchanger</artifactId>
 
 
 </project>
