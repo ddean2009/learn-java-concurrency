@@ -52,6 +52,7 @@
         <module>nonblock</module>
         <module>reorder</module>
         <module>Exchanger</module>
+        <module>RCU</module>
     </modules>
 
     <dependencies>
